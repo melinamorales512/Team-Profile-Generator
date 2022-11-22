@@ -38,5 +38,5 @@ Email: melinamorales956@gmail.com
 ## Credits
 Melina Morales
 
-https://melinamorales512.github.io/Team-Profile-Generator
+https://github.com/melinamorales512/Team-Profile-Generator
 
