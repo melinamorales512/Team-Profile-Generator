@@ -14,7 +14,8 @@
 ## Description
 This application was created to generate a team profile based on user input using the Inquirer module from Node.js and displaying the information on a newly created html page with a style sheet
 
-https://youtu.be/HlTd7t_llZ0
+![image](https://user-images.githubusercontent.com/111590453/203430709-1c1080d9-849f-434e-8fa8-db7eeeef800b.png)
+
 
 ## Installation
 The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. If testing is required, this application uses Jest.
@@ -22,7 +23,7 @@ The user should clone the repository from GitHub and download Node. This applica
 Use inquirer from your command line to answer questions about your project. View walk through video here
 
 
-https://drive.google.com/file/d/1tVZ-ynHvrGJEdoNuJ9qEJsolxrK_BOBJ/view
+https://youtu.be/HlTd7t_llZ0
 
 ## Contributing
 Contributors should read the installation section.
