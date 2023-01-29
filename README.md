@@ -14,7 +14,8 @@
 ## Description
 This application was created to generate a team profile based on user input using the Inquirer module from Node.js and displaying the information on a newly created html page with a style sheet
 
-![image](https://user-images.githubusercontent.com/111590453/203430709-1c1080d9-849f-434e-8fa8-db7eeeef800b.png)
+![image](https://user-images.githubusercontent.com/111590453/215361033-9b05cb50-0b75-4496-a853-24739dee6c63.png)
+
 
 
 ## Installation
